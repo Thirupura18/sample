@@ -2,10 +2,7 @@
        
        
        
-       //Prime Number program:wq
-
-
-       
+       //Prime Number program       
        public class Prime
        {
        public static void main(String[] args)
@@ -21,8 +18,8 @@
 	count++;
 	}
 																									}
-																										if(count==0)
-																										System.out.print(i+" ");
+																									if(count==0)
+																									System.out.print(i+" ");
 																									}
 																									}	
 																									}
