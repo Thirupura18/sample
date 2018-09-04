@@ -1,7 +1,7 @@
        //Prime Number program       
        public class Prime
        {
-            public static void main(String[] args)
+            public static void main(String[] arg)
             {
                 int num;
 	        for(int i=1;i<=100;i++)
@@ -15,6 +15,5 @@
 	                 }																						           }																							        if(count==0)	
 	          System.out.print(i+" ");
 		}
-																								             }			
-																								          }
-																														
+																								             }																							          }
+																									//End of program					
